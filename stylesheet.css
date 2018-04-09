@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+
+}
+
+.wrapper {
+    width: 1180px;
+    height: 4500px;
+    background-color: white;
+    position: relative;
+    margin: 0 auto;
+}
+
+nav {
+    width: 800px;
+    height: 100px;
+    background-color: white;
+    color: black;
+    margin: 0 auto;
+    padding-top: 50px;
+    text-align: center;
+
+}
+
+a:link {
+    text-decoration: none;
+    color: dodgerblue;
+
+}
+
+a:visited {
+    color-decoration: none;
+    color: lightskyblue;
+}
+
+a:hover {
+    color-decoration: none;
+    color: gold;
+    cursor: hand;
+}
+
+a:active {
+    color-decoration: none;
+    color: black;
+}
+
+#section1 {
+    width: 1180px;
+    height: 800px;
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+}
+
+#section2 {
+    width: 1180px;
+    height: 800px;
+    background-color: lightskyblue;
+    color: darkblue;
+    text-align: center;
+    padding: 50px;
+
+}
+
+#section3 {
+    width: 1180px;
+    height: 800px;
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+
+}
+
+#section4 {
+    width: 1180px;
+    height: 800px;
+    background-color: lightskyblue;
+    color: darkblue;
+    text-align: center;
+}
+
+#section5 {
+    width: 1180px;
+    height: 800px;
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+
+}
+
+p {
+    display: inline;
+    padding: 0 20px;
+}
+
+footer {
+    width: 1180px;
+    height: 25px;
+    background-color: dodgerblue;
+    position: fixed;
+    bottom: 0;
+}
+
+.menu {
+    float: left;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 200px;
+}
+
+.happyhour {
+    float: right;
+    align-content: right;
+}
+
+.homepic {
+    padding-top: 20px;
+    padding-bottom: 110px;
+}
+
+.homekiku {
+    padding-top: 25px;
+    font-size: xx-large;
+}
+
+.helvetica {
+    font-family: Helvetica;
+}
+
+.about {
+    padding-top: 50px;
+    padding-right: 590px;
+    padding-left: 50px;
+    padding-bottom: 120px;
+    float: left;
+}
+
+.reserve {
+    float: left;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 120px;
+
+}
+
+.menuright {
+    float: left;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 200px;
+
+}
+.menu_3 {
+    float: left;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 200px;
+}
+
+.contact {
+    font-size: x-large;
+    text-align: left;
+    padding: 25px;
+}
+
+.tables {
+    padding: 20px;
+}
